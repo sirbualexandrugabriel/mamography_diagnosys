@@ -1,0 +1,5544 @@
+{
+  "mdb001.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      489,
+      425,
+      197
+    ],
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb002.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      502,
+      280,
+      69
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb003.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb004.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb005.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      524,
+      168,
+      26
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb006.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb007.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb008.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb009.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb010.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      499,
+      425,
+      33
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb011.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb012.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      553,
+      458,
+      40
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb013.pgm": {
+    "type_background_tissue": "G",
+    "type": "MISC",
+    "coords": [
+      "B",
+      357,
+      365,
+      31
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb014.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb015.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      429,
+      864,
+      68
+    ],
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb016.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb017.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      477,
+      573,
+      48
+    ],
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb018.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb019.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      371,
+      477,
+      49
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb020.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb021.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      531,
+      125,
+      49
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb022.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb023.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "M",
+      486,
+      681,
+      29
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb024.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb025.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      350,
+      443,
+      79
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb026.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb027.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb028.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "M",
+      686,
+      314,
+      56
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb029.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb030.pgm": {
+    "type_background_tissue": "G",
+    "type": "MISC",
+    "coords": [
+      "B",
+      702,
+      676,
+      43
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb031.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb032.pgm": {
+    "type_background_tissue": "G",
+    "type": "MISC",
+    "coords": [
+      "B",
+      636,
+      742,
+      66
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb033.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb034.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb035.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb036.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb037.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb038.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb039.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb040.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb041.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb042.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb043.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb044.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb045.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb046.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb047.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb048.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb049.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb050.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb051.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb052.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb053.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb054.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb055.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb056.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 760
+  },
+  "mdb057.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 204,
+    "right_crop": 837
+  },
+  "mdb058.pgm": {
+    "type_background_tissue": "D",
+    "type": "MISC",
+    "coords": [
+      "M",
+      706,
+      359,
+      27
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb060.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb061.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb062.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb063.pgm": {
+    "type_background_tissue": "D",
+    "type": "MISC",
+    "coords": [
+      "B",
+      478,
+      463,
+      33
+    ],
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb064.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb065.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb066.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb067.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb068.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb069.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      562,
+      406,
+      44
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb070.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb071.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 326,
+    "right_crop": 768
+  },
+  "mdb072.pgm": {
+    "type_background_tissue": "G",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      758,
+      517,
+      28
+    ],
+    "left_crop": 256,
+    "right_crop": 622
+  },
+  "mdb073.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 315,
+    "right_crop": 712
+  },
+  "mdb074.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 649
+  },
+  "mdb075.pgm": {
+    "type_background_tissue": "F",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      556,
+      717,
+      23
+    ],
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb076.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb077.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb078.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 827
+  },
+  "mdb079.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb080.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      592,
+      149,
+      20
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb081.pgm": {
+    "type_background_tissue": "G",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      532,
+      473,
+      131
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb082.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb083.pgm": {
+    "type_background_tissue": "G",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      480,
+      194,
+      38
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb084.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb085.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb086.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb087.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb088.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 758
+  },
+  "mdb089.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb090.pgm": {
+    "type_background_tissue": "G",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      514,
+      547,
+      49
+    ],
+    "left_crop": 256,
+    "right_crop": 752
+  },
+  "mdb091.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      344,
+      494,
+      20
+    ],
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb092.pgm": {
+    "type_background_tissue": "F",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      601,
+      662,
+      43
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb093.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb094.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb095.pgm": {
+    "type_background_tissue": "F",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      558,
+      517,
+      29
+    ],
+    "left_crop": 236,
+    "right_crop": 837
+  },
+  "mdb096.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 835
+  },
+  "mdb097.pgm": {
+    "type_background_tissue": "F",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      412,
+      297,
+      34
+    ],
+    "left_crop": 231,
+    "right_crop": 837
+  },
+  "mdb098.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb099.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      310,
+      340,
+      23
+    ],
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb100.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb101.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb102.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      609,
+      460,
+      38
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb103.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb104.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      667,
+      365,
+      50
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb105.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      508,
+      279,
+      98
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb106.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb107.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      424,
+      621,
+      111
+    ],
+    "left_crop": 192,
+    "right_crop": 837
+  },
+  "mdb108.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb109.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb110.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      834,
+      427,
+      51
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb111.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      519,
+      575,
+      107
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb112.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb113.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb114.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb115.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      563,
+      532,
+      117
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb116.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb117.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      544,
+      576,
+      84
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb118.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb119.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb120.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      601,
+      262,
+      79
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb121.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      532,
+      434,
+      87
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb122.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb123.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb124.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      658,
+      620,
+      33
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb125.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      324,
+      552,
+      60
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb126.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      833,
+      549,
+      23
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb127.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      501,
+      551,
+      48
+    ],
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb128.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 681
+  },
+  "mdb129.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb130.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      804,
+      552,
+      28
+    ],
+    "left_crop": 187,
+    "right_crop": 783
+  },
+  "mdb131.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 13,
+    "right_crop": 1012
+  },
+  "mdb132.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      689,
+      766,
+      18
+    ],
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb133.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 13,
+    "right_crop": 1012
+  },
+  "mdb134.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "M",
+      555,
+      728,
+      49
+    ],
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb135.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 13,
+    "right_crop": 1012
+  },
+  "mdb136.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb137.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb138.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb139.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 13,
+    "right_crop": 1012
+  },
+  "mdb140.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb141.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "M",
+      554,
+      759,
+      29
+    ],
+    "left_crop": 30,
+    "right_crop": 1012
+  },
+  "mdb142.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      677,
+      636,
+      26
+    ],
+    "left_crop": 12,
+    "right_crop": 936
+  },
+  "mdb143.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 13,
+    "right_crop": 1012
+  },
+  "mdb144.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "M",
+      711,
+      540,
+      27
+    ],
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb145.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      355,
+      543,
+      49
+    ],
+    "left_crop": 13,
+    "right_crop": 1012
+  },
+  "mdb146.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb147.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 13,
+    "right_crop": 1012
+  },
+  "mdb148.pgm": {
+    "type_background_tissue": "F",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      698,
+      607,
+      174
+    ],
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb149.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 13,
+    "right_crop": 1012
+  },
+  "mdb150.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      673,
+      661,
+      62
+    ],
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb151.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 13,
+    "right_crop": 1012
+  },
+  "mdb152.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      349,
+      486,
+      48
+    ],
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb153.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 13,
+    "right_crop": 1012
+  },
+  "mdb154.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb155.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      576,
+      480,
+      95
+    ],
+    "left_crop": 188,
+    "right_crop": 1011
+  },
+  "mdb156.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb157.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb158.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      484,
+      565,
+      88
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb159.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 229,
+    "right_crop": 837
+  },
+  "mdb160.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      488,
+      519,
+      61
+    ],
+    "left_crop": 187,
+    "right_crop": 805
+  },
+  "mdb161.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb162.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 729
+  },
+  "mdb163.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      633,
+      365,
+      50
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb164.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 770
+  },
+  "mdb165.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      487,
+      490,
+      42
+    ],
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb166.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 676
+  },
+  "mdb167.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      450,
+      657,
+      35
+    ],
+    "left_crop": 224,
+    "right_crop": 837
+  },
+  "mdb168.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 832
+  },
+  "mdb169.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb170.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      535,
+      480,
+      82
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb171.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      562,
+      627,
+      62
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb172.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb173.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb174.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb175.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      432,
+      670,
+      33
+    ],
+    "left_crop": 258,
+    "right_crop": 768
+  },
+  "mdb176.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 674
+  },
+  "mdb177.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb178.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      532,
+      600,
+      70
+    ],
+    "left_crop": 312,
+    "right_crop": 689
+  },
+  "mdb179.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      424,
+      514,
+      67
+    ],
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb180.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 676
+  },
+  "mdb181.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      505,
+      362,
+      54
+    ],
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb182.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb183.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb184.pgm": {
+    "type_background_tissue": "F",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      672,
+      624,
+      114
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb185.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb186.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      621,
+      524,
+      47
+    ],
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb187.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb188.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      618,
+      617,
+      61
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb189.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb190.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      512,
+      621,
+      31
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb191.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      430,
+      516,
+      41
+    ],
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb192.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb193.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      625,
+      563,
+      132
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb194.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb195.pgm": {
+    "type_background_tissue": "F",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      299,
+      129,
+      26
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb196.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb197.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb198.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      456,
+      612,
+      93
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb199.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      383,
+      177,
+      31
+    ],
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb200.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb201.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb202.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      467,
+      772,
+      37
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb203.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb204.pgm": {
+    "type_background_tissue": "F",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      688,
+      399,
+      21
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb205.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb206.pgm": {
+    "type_background_tissue": "F",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      656,
+      200,
+      17
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb207.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      453,
+      564,
+      19
+    ],
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb208.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb209.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "M",
+      377,
+      503,
+      87
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb210.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb211.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "M",
+      344,
+      327,
+      13
+    ],
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb212.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb213.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "M",
+      477,
+      520,
+      45
+    ],
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb214.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb215.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb217.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb218.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "B",
+      505,
+      629,
+      8
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb219.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "B",
+      478,
+      756,
+      29
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb220.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb221.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb222.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "B",
+      626,
+      427,
+      17
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb223.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "B",
+      433,
+      529,
+      6
+    ],
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb224.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb225.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb226.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "B",
+      493,
+      721,
+      8
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb227.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "B",
+      520,
+      467,
+      9
+    ],
+    "left_crop": 272,
+    "right_crop": 768
+  },
+  "mdb228.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 762
+  },
+  "mdb229.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb230.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb231.pgm": {
+    "type_background_tissue": "F",
+    "type": "CALC",
+    "coords": [
+      "M",
+      421,
+      538,
+      44
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb232.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb234.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb235.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb236.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "B",
+      748,
+      824,
+      14
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb237.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb238.pgm": {
+    "type_background_tissue": "F",
+    "type": "CALC",
+    "coords": [
+      "M",
+      502,
+      553,
+      17
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb239.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "M",
+      457,
+      808,
+      25
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb240.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "B",
+      381,
+      614,
+      23
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb241.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "M",
+      571,
+      678,
+      38
+    ],
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb242.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb243.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb244.pgm": {
+    "type_background_tissue": "D",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      558,
+      567,
+      52
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb246.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb247.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb248.pgm": {
+    "type_background_tissue": "F",
+    "type": "CALC",
+    "coords": [
+      "B",
+      646,
+      601,
+      10
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb249.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "M",
+      449,
+      639,
+      64
+    ],
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb250.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb251.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb252.pgm": {
+    "type_background_tissue": "F",
+    "type": "CALC",
+    "coords": [
+      "B",
+      585,
+      367,
+      23
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb253.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "M",
+      291,
+      564,
+      28
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb254.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb255.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb256.pgm": {
+    "type_background_tissue": "F",
+    "type": "CALC",
+    "coords": [
+      "M",
+      624,
+      484,
+      37
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb257.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb258.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb259.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb260.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb261.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb262.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb263.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb264.pgm": {
+    "type_background_tissue": "G",
+    "type": "MISC",
+    "coords": [
+      "M",
+      428,
+      431,
+      36
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb265.pgm": {
+    "type_background_tissue": "G",
+    "type": "MISC",
+    "coords": [
+      "M",
+      431,
+      498,
+      60
+    ],
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb266.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb267.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "M",
+      231,
+      481,
+      56
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb268.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb269.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb270.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "M",
+      668,
+      945,
+      72
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb271.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "M",
+      240,
+      270,
+      68
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb272.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb273.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb274.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "M",
+      897,
+      505,
+      123
+    ],
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb275.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 267,
+    "right_crop": 951
+  },
+  "mdb276.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 776
+  },
+  "mdb277.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb278.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb279.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb280.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb281.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 1011
+  },
+  "mdb282.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb283.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb284.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb285.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb286.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb287.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb288.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb289.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb290.pgm": {
+    "type_background_tissue": "D",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      687,
+      353,
+      45
+    ],
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb291.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb292.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb293.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb294.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb295.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb296.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb297.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb298.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb299.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb300.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb301.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb302.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb303.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb304.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb305.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb306.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb307.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb308.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb309.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb310.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb311.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb312.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "B",
+      784,
+      263,
+      20
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb313.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb314.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "B",
+      506,
+      191,
+      39
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb315.pgm": {
+    "type_background_tissue": "D",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      508,
+      447,
+      93
+    ],
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb316.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb317.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 313,
+    "right_crop": 712
+  },
+  "mdb318.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb319.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 837
+  },
+  "mdb320.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb321.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 257,
+    "right_crop": 768
+  },
+  "mdb322.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb001_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      489,
+      425,
+      197
+    ],
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb002_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      502,
+      280,
+      69
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb003_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb004_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb005_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      524,
+      168,
+      26
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb006_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb007_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb008_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb009_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb010_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      499,
+      425,
+      33
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb011_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb012_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      553,
+      458,
+      40
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb013_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "MISC",
+    "coords": [
+      "B",
+      357,
+      365,
+      31
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb014_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb015_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      429,
+      864,
+      68
+    ],
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb016_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb017_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      477,
+      573,
+      48
+    ],
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb018_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb019_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      371,
+      477,
+      49
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb020_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb021_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      531,
+      125,
+      49
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb022_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb023_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "M",
+      486,
+      681,
+      29
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb024_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb025_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      350,
+      443,
+      79
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb026_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb027_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb028_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "M",
+      686,
+      314,
+      56
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb029_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb030_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "MISC",
+    "coords": [
+      "B",
+      702,
+      676,
+      43
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb031_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb032_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "MISC",
+    "coords": [
+      "B",
+      636,
+      742,
+      66
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb033_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb034_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb035_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb036_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb037_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb038_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb039_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb040_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb041_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb042_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb043_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb044_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb045_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb046_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb047_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb048_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb049_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb050_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb051_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb052_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb053_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb054_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb055_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb056_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 263,
+    "right_crop": 767
+  },
+  "mdb057_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 819
+  },
+  "mdb058_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "MISC",
+    "coords": [
+      "M",
+      706,
+      359,
+      27
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb060_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb061_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb062_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb063_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "MISC",
+    "coords": [
+      "B",
+      478,
+      463,
+      33
+    ],
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb064_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb065_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb066_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb067_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb068_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb069_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      562,
+      406,
+      44
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb070_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb071_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 697
+  },
+  "mdb072_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      758,
+      517,
+      28
+    ],
+    "left_crop": 401,
+    "right_crop": 767
+  },
+  "mdb073_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 311,
+    "right_crop": 708
+  },
+  "mdb074_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 374,
+    "right_crop": 711
+  },
+  "mdb075_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      556,
+      717,
+      23
+    ],
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb076_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb077_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb078_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 196,
+    "right_crop": 836
+  },
+  "mdb079_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb080_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      592,
+      149,
+      20
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb081_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      532,
+      473,
+      131
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb082_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb083_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      480,
+      194,
+      38
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb084_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb085_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb086_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb087_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb088_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 265,
+    "right_crop": 767
+  },
+  "mdb089_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb090_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      514,
+      547,
+      49
+    ],
+    "left_crop": 271,
+    "right_crop": 767
+  },
+  "mdb091_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      344,
+      494,
+      20
+    ],
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb092_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      601,
+      662,
+      43
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb093_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb094_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb095_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      558,
+      517,
+      29
+    ],
+    "left_crop": 186,
+    "right_crop": 787
+  },
+  "mdb096_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 188,
+    "right_crop": 836
+  },
+  "mdb097_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      412,
+      297,
+      34
+    ],
+    "left_crop": 186,
+    "right_crop": 792
+  },
+  "mdb098_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb099_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      310,
+      340,
+      23
+    ],
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb100_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb101_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb102_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      609,
+      460,
+      38
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb103_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb104_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      667,
+      365,
+      50
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb105_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      508,
+      279,
+      98
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb106_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb107_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      424,
+      621,
+      111
+    ],
+    "left_crop": 186,
+    "right_crop": 831
+  },
+  "mdb108_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb109_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb110_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      834,
+      427,
+      51
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb111_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      519,
+      575,
+      107
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb112_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb113_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb114_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb115_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      563,
+      532,
+      117
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb116_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb117_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      544,
+      576,
+      84
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb118_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb119_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb120_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      601,
+      262,
+      79
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb121_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      532,
+      434,
+      87
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb122_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb123_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb124_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      658,
+      620,
+      33
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb125_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      324,
+      552,
+      60
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb126_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      833,
+      549,
+      23
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb127_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      501,
+      551,
+      48
+    ],
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb128_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 342,
+    "right_crop": 767
+  },
+  "mdb129_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb130_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      804,
+      552,
+      28
+    ],
+    "left_crop": 240,
+    "right_crop": 836
+  },
+  "mdb131_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 11,
+    "right_crop": 1010
+  },
+  "mdb132_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      689,
+      766,
+      18
+    ],
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb133_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 11,
+    "right_crop": 1010
+  },
+  "mdb134_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "M",
+      555,
+      728,
+      49
+    ],
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb135_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 11,
+    "right_crop": 1010
+  },
+  "mdb136_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb137_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb138_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb139_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 11,
+    "right_crop": 1010
+  },
+  "mdb140_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb141_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "M",
+      554,
+      759,
+      29
+    ],
+    "left_crop": 11,
+    "right_crop": 993
+  },
+  "mdb142_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      677,
+      636,
+      26
+    ],
+    "left_crop": 87,
+    "right_crop": 1011
+  },
+  "mdb143_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 11,
+    "right_crop": 1010
+  },
+  "mdb144_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "M",
+      711,
+      540,
+      27
+    ],
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb145_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      355,
+      543,
+      49
+    ],
+    "left_crop": 11,
+    "right_crop": 1010
+  },
+  "mdb146_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb147_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 11,
+    "right_crop": 1010
+  },
+  "mdb148_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      698,
+      607,
+      174
+    ],
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb149_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 11,
+    "right_crop": 1010
+  },
+  "mdb150_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      673,
+      661,
+      62
+    ],
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb151_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 11,
+    "right_crop": 1010
+  },
+  "mdb152_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      349,
+      486,
+      48
+    ],
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb153_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 11,
+    "right_crop": 1010
+  },
+  "mdb154_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb155_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      576,
+      480,
+      95
+    ],
+    "left_crop": 12,
+    "right_crop": 835
+  },
+  "mdb156_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb157_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb158_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      484,
+      565,
+      88
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb159_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 794
+  },
+  "mdb160_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      488,
+      519,
+      61
+    ],
+    "left_crop": 218,
+    "right_crop": 836
+  },
+  "mdb161_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb162_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 294,
+    "right_crop": 767
+  },
+  "mdb163_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      633,
+      365,
+      50
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb164_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 253,
+    "right_crop": 836
+  },
+  "mdb165_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      487,
+      490,
+      42
+    ],
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb166_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 347,
+    "right_crop": 711
+  },
+  "mdb167_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      450,
+      657,
+      35
+    ],
+    "left_crop": 186,
+    "right_crop": 799
+  },
+  "mdb168_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 191,
+    "right_crop": 836
+  },
+  "mdb169_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb170_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      535,
+      480,
+      82
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb171_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      562,
+      627,
+      62
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb172_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb173_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb174_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb175_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      432,
+      670,
+      33
+    ],
+    "left_crop": 255,
+    "right_crop": 765
+  },
+  "mdb176_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 349,
+    "right_crop": 767
+  },
+  "mdb177_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb178_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      532,
+      600,
+      70
+    ],
+    "left_crop": 334,
+    "right_crop": 711
+  },
+  "mdb179_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      424,
+      514,
+      67
+    ],
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb180_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 347,
+    "right_crop": 711
+  },
+  "mdb181_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      505,
+      362,
+      54
+    ],
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb182_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb183_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb184_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      672,
+      624,
+      114
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb185_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb186_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      621,
+      524,
+      47
+    ],
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb187_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb188_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      618,
+      617,
+      61
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb189_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb190_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      512,
+      621,
+      31
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb191_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      430,
+      516,
+      41
+    ],
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb192_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb193_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      625,
+      563,
+      132
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb194_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb195_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      299,
+      129,
+      26
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb196_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb197_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb198_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      456,
+      612,
+      93
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb199_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      383,
+      177,
+      31
+    ],
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb200_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb201_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb202_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      467,
+      772,
+      37
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb203_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb204_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      688,
+      399,
+      21
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb205_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb206_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      656,
+      200,
+      17
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb207_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      453,
+      564,
+      19
+    ],
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb208_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb209_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "M",
+      377,
+      503,
+      87
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb210_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb211_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "M",
+      344,
+      327,
+      13
+    ],
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb212_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb213_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "M",
+      477,
+      520,
+      45
+    ],
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb214_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb215_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb217_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb218_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "B",
+      505,
+      629,
+      8
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb219_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "B",
+      478,
+      756,
+      29
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb220_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb221_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb222_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "B",
+      626,
+      427,
+      17
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb223_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "B",
+      433,
+      529,
+      6
+    ],
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb224_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb225_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb226_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "B",
+      493,
+      721,
+      8
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb227_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "B",
+      520,
+      467,
+      9
+    ],
+    "left_crop": 255,
+    "right_crop": 751
+  },
+  "mdb228_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 261,
+    "right_crop": 767
+  },
+  "mdb229_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb230_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb231_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CALC",
+    "coords": [
+      "M",
+      421,
+      538,
+      44
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb232_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb234_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb235_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb236_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "B",
+      748,
+      824,
+      14
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb237_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb238_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CALC",
+    "coords": [
+      "M",
+      502,
+      553,
+      17
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb239_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "M",
+      457,
+      808,
+      25
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb240_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "B",
+      381,
+      614,
+      23
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb241_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "M",
+      571,
+      678,
+      38
+    ],
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb242_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb243_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb244_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      558,
+      567,
+      52
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb246_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb247_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb248_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CALC",
+    "coords": [
+      "B",
+      646,
+      601,
+      10
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb249_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "M",
+      449,
+      639,
+      64
+    ],
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb250_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb251_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb252_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CALC",
+    "coords": [
+      "B",
+      585,
+      367,
+      23
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb253_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "M",
+      291,
+      564,
+      28
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb254_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb255_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb256_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CALC",
+    "coords": [
+      "M",
+      624,
+      484,
+      37
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb257_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb258_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb259_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb260_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb261_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb262_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb263_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb264_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "MISC",
+    "coords": [
+      "M",
+      428,
+      431,
+      36
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb265_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "MISC",
+    "coords": [
+      "M",
+      431,
+      498,
+      60
+    ],
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb266_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb267_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "M",
+      231,
+      481,
+      56
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb268_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb269_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb270_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "M",
+      668,
+      945,
+      72
+    ],
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb271_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "M",
+      240,
+      270,
+      68
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb272_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb273_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb274_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "M",
+      897,
+      505,
+      123
+    ],
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb275_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 72,
+    "right_crop": 756
+  },
+  "mdb276_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 247,
+    "right_crop": 836
+  },
+  "mdb277_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb278_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb279_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb280_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 12,
+    "right_crop": 1011
+  },
+  "mdb281_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 12,
+    "right_crop": 766
+  },
+  "mdb282_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb283_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb284_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb285_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb286_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb287_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb288_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb289_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb290_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      687,
+      353,
+      45
+    ],
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb291_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb292_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb293_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb294_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb295_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb296_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb297_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb298_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb299_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb300_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb301_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb302_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb303_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb304_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb305_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb306_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  },
+  "mdb307_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb308_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb309_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb310_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb311_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb312_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "B",
+      784,
+      263,
+      20
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb313_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb314_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "B",
+      506,
+      191,
+      39
+    ],
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb315_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      508,
+      447,
+      93
+    ],
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb316_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb317_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 311,
+    "right_crop": 710
+  },
+  "mdb318_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 312,
+    "right_crop": 711
+  },
+  "mdb319_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 186,
+    "right_crop": 835
+  },
+  "mdb320_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 187,
+    "right_crop": 836
+  },
+  "mdb321_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 255,
+    "right_crop": 766
+  },
+  "mdb322_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null,
+    "left_crop": 256,
+    "right_crop": 767
+  }
+}

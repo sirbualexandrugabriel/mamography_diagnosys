@@ -1,0 +1,4272 @@
+{
+  "mdb001.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      489,
+      425,
+      197
+    ]
+  },
+  "mdb002.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      502,
+      280,
+      69
+    ]
+  },
+  "mdb003.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb004.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb005.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      524,
+      168,
+      26
+    ]
+  },
+  "mdb006.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb007.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb008.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb009.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb010.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      499,
+      425,
+      33
+    ]
+  },
+  "mdb011.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb012.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      553,
+      458,
+      40
+    ]
+  },
+  "mdb013.pgm": {
+    "type_background_tissue": "G",
+    "type": "MISC",
+    "coords": [
+      "B",
+      357,
+      365,
+      31
+    ]
+  },
+  "mdb014.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb015.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      429,
+      864,
+      68
+    ]
+  },
+  "mdb016.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb017.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      477,
+      573,
+      48
+    ]
+  },
+  "mdb018.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb019.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      371,
+      477,
+      49
+    ]
+  },
+  "mdb020.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb021.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      531,
+      125,
+      49
+    ]
+  },
+  "mdb022.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb023.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "M",
+      486,
+      681,
+      29
+    ]
+  },
+  "mdb024.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb025.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      350,
+      443,
+      79
+    ]
+  },
+  "mdb026.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb027.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb028.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "M",
+      686,
+      314,
+      56
+    ]
+  },
+  "mdb029.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb030.pgm": {
+    "type_background_tissue": "G",
+    "type": "MISC",
+    "coords": [
+      "B",
+      702,
+      676,
+      43
+    ]
+  },
+  "mdb031.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb032.pgm": {
+    "type_background_tissue": "G",
+    "type": "MISC",
+    "coords": [
+      "B",
+      636,
+      742,
+      66
+    ]
+  },
+  "mdb033.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb034.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb035.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb036.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb037.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb038.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb039.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb040.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb041.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb042.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb043.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb044.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb045.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb046.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb047.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb048.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb049.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb050.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb051.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb052.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb053.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb054.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb055.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb056.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb057.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb058.pgm": {
+    "type_background_tissue": "D",
+    "type": "MISC",
+    "coords": [
+      "M",
+      706,
+      359,
+      27
+    ]
+  },
+  "mdb060.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb061.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb062.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb063.pgm": {
+    "type_background_tissue": "D",
+    "type": "MISC",
+    "coords": [
+      "B",
+      478,
+      463,
+      33
+    ]
+  },
+  "mdb064.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb065.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb066.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb067.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb068.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb069.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      562,
+      406,
+      44
+    ]
+  },
+  "mdb070.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb071.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb072.pgm": {
+    "type_background_tissue": "G",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      758,
+      517,
+      28
+    ]
+  },
+  "mdb073.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb074.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb075.pgm": {
+    "type_background_tissue": "F",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      556,
+      717,
+      23
+    ]
+  },
+  "mdb076.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb077.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb078.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb079.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb080.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      592,
+      149,
+      20
+    ]
+  },
+  "mdb081.pgm": {
+    "type_background_tissue": "G",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      532,
+      473,
+      131
+    ]
+  },
+  "mdb082.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb083.pgm": {
+    "type_background_tissue": "G",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      480,
+      194,
+      38
+    ]
+  },
+  "mdb084.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb085.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb086.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb087.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb088.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb089.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb090.pgm": {
+    "type_background_tissue": "G",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      514,
+      547,
+      49
+    ]
+  },
+  "mdb091.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      344,
+      494,
+      20
+    ]
+  },
+  "mdb092.pgm": {
+    "type_background_tissue": "F",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      601,
+      662,
+      43
+    ]
+  },
+  "mdb093.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb094.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb095.pgm": {
+    "type_background_tissue": "F",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      558,
+      517,
+      29
+    ]
+  },
+  "mdb096.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb097.pgm": {
+    "type_background_tissue": "F",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      412,
+      297,
+      34
+    ]
+  },
+  "mdb098.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb099.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      310,
+      340,
+      23
+    ]
+  },
+  "mdb100.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb101.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb102.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      609,
+      460,
+      38
+    ]
+  },
+  "mdb103.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb104.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      667,
+      365,
+      50
+    ]
+  },
+  "mdb105.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      508,
+      279,
+      98
+    ]
+  },
+  "mdb106.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb107.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      424,
+      621,
+      111
+    ]
+  },
+  "mdb108.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb109.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb110.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      834,
+      427,
+      51
+    ]
+  },
+  "mdb111.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      519,
+      575,
+      107
+    ]
+  },
+  "mdb112.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb113.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb114.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb115.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      563,
+      532,
+      117
+    ]
+  },
+  "mdb116.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb117.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      544,
+      576,
+      84
+    ]
+  },
+  "mdb118.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb119.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb120.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      601,
+      262,
+      79
+    ]
+  },
+  "mdb121.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      532,
+      434,
+      87
+    ]
+  },
+  "mdb122.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb123.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb124.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      658,
+      620,
+      33
+    ]
+  },
+  "mdb125.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      324,
+      552,
+      60
+    ]
+  },
+  "mdb126.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      833,
+      549,
+      23
+    ]
+  },
+  "mdb127.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      501,
+      551,
+      48
+    ]
+  },
+  "mdb128.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb129.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb130.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      804,
+      552,
+      28
+    ]
+  },
+  "mdb131.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb132.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      689,
+      766,
+      18
+    ]
+  },
+  "mdb133.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb134.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "M",
+      555,
+      728,
+      49
+    ]
+  },
+  "mdb135.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb136.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb137.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb138.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb139.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb140.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb141.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "M",
+      554,
+      759,
+      29
+    ]
+  },
+  "mdb142.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      677,
+      636,
+      26
+    ]
+  },
+  "mdb143.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb144.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "M",
+      711,
+      540,
+      27
+    ]
+  },
+  "mdb145.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      355,
+      543,
+      49
+    ]
+  },
+  "mdb146.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb147.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb148.pgm": {
+    "type_background_tissue": "F",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      698,
+      607,
+      174
+    ]
+  },
+  "mdb149.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb150.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      673,
+      661,
+      62
+    ]
+  },
+  "mdb151.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb152.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      349,
+      486,
+      48
+    ]
+  },
+  "mdb153.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb154.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb155.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      576,
+      480,
+      95
+    ]
+  },
+  "mdb156.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb157.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb158.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      484,
+      565,
+      88
+    ]
+  },
+  "mdb159.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb160.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      488,
+      519,
+      61
+    ]
+  },
+  "mdb161.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb162.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb163.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      633,
+      365,
+      50
+    ]
+  },
+  "mdb164.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb165.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      487,
+      490,
+      42
+    ]
+  },
+  "mdb166.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb167.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      450,
+      657,
+      35
+    ]
+  },
+  "mdb168.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb169.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb170.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      535,
+      480,
+      82
+    ]
+  },
+  "mdb171.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      562,
+      627,
+      62
+    ]
+  },
+  "mdb172.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb173.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb174.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb175.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      432,
+      670,
+      33
+    ]
+  },
+  "mdb176.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb177.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb178.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      532,
+      600,
+      70
+    ]
+  },
+  "mdb179.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      424,
+      514,
+      67
+    ]
+  },
+  "mdb180.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb181.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      505,
+      362,
+      54
+    ]
+  },
+  "mdb182.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb183.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb184.pgm": {
+    "type_background_tissue": "F",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      672,
+      624,
+      114
+    ]
+  },
+  "mdb185.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb186.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      621,
+      524,
+      47
+    ]
+  },
+  "mdb187.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb188.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      618,
+      617,
+      61
+    ]
+  },
+  "mdb189.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb190.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      512,
+      621,
+      31
+    ]
+  },
+  "mdb191.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      430,
+      516,
+      41
+    ]
+  },
+  "mdb192.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb193.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      625,
+      563,
+      132
+    ]
+  },
+  "mdb194.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb195.pgm": {
+    "type_background_tissue": "F",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      299,
+      129,
+      26
+    ]
+  },
+  "mdb196.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb197.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb198.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      456,
+      612,
+      93
+    ]
+  },
+  "mdb199.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      383,
+      177,
+      31
+    ]
+  },
+  "mdb200.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb201.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb202.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      467,
+      772,
+      37
+    ]
+  },
+  "mdb203.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb204.pgm": {
+    "type_background_tissue": "F",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      688,
+      399,
+      21
+    ]
+  },
+  "mdb205.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb206.pgm": {
+    "type_background_tissue": "F",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      656,
+      200,
+      17
+    ]
+  },
+  "mdb207.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      453,
+      564,
+      19
+    ]
+  },
+  "mdb208.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb209.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "M",
+      377,
+      503,
+      87
+    ]
+  },
+  "mdb210.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb211.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "M",
+      344,
+      327,
+      13
+    ]
+  },
+  "mdb212.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb213.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "M",
+      477,
+      520,
+      45
+    ]
+  },
+  "mdb214.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb215.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb217.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb218.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "B",
+      505,
+      629,
+      8
+    ]
+  },
+  "mdb219.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "B",
+      478,
+      756,
+      29
+    ]
+  },
+  "mdb220.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb221.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb222.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "B",
+      626,
+      427,
+      17
+    ]
+  },
+  "mdb223.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "B",
+      433,
+      529,
+      6
+    ]
+  },
+  "mdb224.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb225.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb226.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "B",
+      493,
+      721,
+      8
+    ]
+  },
+  "mdb227.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "B",
+      520,
+      467,
+      9
+    ]
+  },
+  "mdb228.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb229.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb230.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb231.pgm": {
+    "type_background_tissue": "F",
+    "type": "CALC",
+    "coords": [
+      "M",
+      421,
+      538,
+      44
+    ]
+  },
+  "mdb232.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb234.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb235.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb236.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "B",
+      748,
+      824,
+      14
+    ]
+  },
+  "mdb237.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb238.pgm": {
+    "type_background_tissue": "F",
+    "type": "CALC",
+    "coords": [
+      "M",
+      502,
+      553,
+      17
+    ]
+  },
+  "mdb239.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "M",
+      457,
+      808,
+      25
+    ]
+  },
+  "mdb240.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "B",
+      381,
+      614,
+      23
+    ]
+  },
+  "mdb241.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "M",
+      571,
+      678,
+      38
+    ]
+  },
+  "mdb242.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb243.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb244.pgm": {
+    "type_background_tissue": "D",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      558,
+      567,
+      52
+    ]
+  },
+  "mdb246.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb247.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb248.pgm": {
+    "type_background_tissue": "F",
+    "type": "CALC",
+    "coords": [
+      "B",
+      646,
+      601,
+      10
+    ]
+  },
+  "mdb249.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "M",
+      449,
+      639,
+      64
+    ]
+  },
+  "mdb250.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb251.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb252.pgm": {
+    "type_background_tissue": "F",
+    "type": "CALC",
+    "coords": [
+      "B",
+      585,
+      367,
+      23
+    ]
+  },
+  "mdb253.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "M",
+      291,
+      564,
+      28
+    ]
+  },
+  "mdb254.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb255.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb256.pgm": {
+    "type_background_tissue": "F",
+    "type": "CALC",
+    "coords": [
+      "M",
+      624,
+      484,
+      37
+    ]
+  },
+  "mdb257.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb258.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb259.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb260.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb261.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb262.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb263.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb264.pgm": {
+    "type_background_tissue": "G",
+    "type": "MISC",
+    "coords": [
+      "M",
+      428,
+      431,
+      36
+    ]
+  },
+  "mdb265.pgm": {
+    "type_background_tissue": "G",
+    "type": "MISC",
+    "coords": [
+      "M",
+      431,
+      498,
+      60
+    ]
+  },
+  "mdb266.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb267.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "M",
+      231,
+      481,
+      56
+    ]
+  },
+  "mdb268.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb269.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb270.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "M",
+      668,
+      945,
+      72
+    ]
+  },
+  "mdb271.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "M",
+      240,
+      270,
+      68
+    ]
+  },
+  "mdb272.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb273.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb274.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "M",
+      897,
+      505,
+      123
+    ]
+  },
+  "mdb275.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb276.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb277.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb278.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb279.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb280.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb281.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb282.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb283.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb284.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb285.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb286.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb287.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb288.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb289.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb290.pgm": {
+    "type_background_tissue": "D",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      687,
+      353,
+      45
+    ]
+  },
+  "mdb291.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb292.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb293.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb294.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb295.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb296.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb297.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb298.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb299.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb300.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb301.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb302.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb303.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb304.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb305.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb306.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb307.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb308.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb309.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb310.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb311.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb312.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "B",
+      784,
+      263,
+      20
+    ]
+  },
+  "mdb313.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb314.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "B",
+      506,
+      191,
+      39
+    ]
+  },
+  "mdb315.pgm": {
+    "type_background_tissue": "D",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      508,
+      447,
+      93
+    ]
+  },
+  "mdb316.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb317.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb318.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb319.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb320.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb321.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb322.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb001_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      489,
+      425,
+      197
+    ]
+  },
+  "mdb002_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      502,
+      280,
+      69
+    ]
+  },
+  "mdb003_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb004_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb005_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      524,
+      168,
+      26
+    ]
+  },
+  "mdb006_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb007_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb008_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb009_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb010_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      499,
+      425,
+      33
+    ]
+  },
+  "mdb011_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb012_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      553,
+      458,
+      40
+    ]
+  },
+  "mdb013_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "MISC",
+    "coords": [
+      "B",
+      357,
+      365,
+      31
+    ]
+  },
+  "mdb014_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb015_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      429,
+      864,
+      68
+    ]
+  },
+  "mdb016_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb017_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      477,
+      573,
+      48
+    ]
+  },
+  "mdb018_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb019_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      371,
+      477,
+      49
+    ]
+  },
+  "mdb020_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb021_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      531,
+      125,
+      49
+    ]
+  },
+  "mdb022_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb023_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "M",
+      486,
+      681,
+      29
+    ]
+  },
+  "mdb024_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb025_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      350,
+      443,
+      79
+    ]
+  },
+  "mdb026_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb027_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb028_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "M",
+      686,
+      314,
+      56
+    ]
+  },
+  "mdb029_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb030_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "MISC",
+    "coords": [
+      "B",
+      702,
+      676,
+      43
+    ]
+  },
+  "mdb031_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb032_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "MISC",
+    "coords": [
+      "B",
+      636,
+      742,
+      66
+    ]
+  },
+  "mdb033_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb034_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb035_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb036_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb037_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb038_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb039_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb040_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb041_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb042_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb043_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb044_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb045_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb046_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb047_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb048_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb049_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb050_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb051_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb052_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb053_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb054_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb055_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb056_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb057_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb058_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "MISC",
+    "coords": [
+      "M",
+      706,
+      359,
+      27
+    ]
+  },
+  "mdb060_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb061_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb062_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb063_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "MISC",
+    "coords": [
+      "B",
+      478,
+      463,
+      33
+    ]
+  },
+  "mdb064_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb065_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb066_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb067_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb068_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb069_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      562,
+      406,
+      44
+    ]
+  },
+  "mdb070_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb071_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb072_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      758,
+      517,
+      28
+    ]
+  },
+  "mdb073_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb074_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb075_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      556,
+      717,
+      23
+    ]
+  },
+  "mdb076_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb077_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb078_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb079_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb080_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      592,
+      149,
+      20
+    ]
+  },
+  "mdb081_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      532,
+      473,
+      131
+    ]
+  },
+  "mdb082_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb083_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      480,
+      194,
+      38
+    ]
+  },
+  "mdb084_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb085_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb086_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb087_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb088_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb089_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb090_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      514,
+      547,
+      49
+    ]
+  },
+  "mdb091_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      344,
+      494,
+      20
+    ]
+  },
+  "mdb092_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      601,
+      662,
+      43
+    ]
+  },
+  "mdb093_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb094_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb095_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      558,
+      517,
+      29
+    ]
+  },
+  "mdb096_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb097_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      412,
+      297,
+      34
+    ]
+  },
+  "mdb098_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb099_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      310,
+      340,
+      23
+    ]
+  },
+  "mdb100_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb101_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb102_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      609,
+      460,
+      38
+    ]
+  },
+  "mdb103_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb104_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      667,
+      365,
+      50
+    ]
+  },
+  "mdb105_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      508,
+      279,
+      98
+    ]
+  },
+  "mdb106_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb107_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "B",
+      424,
+      621,
+      111
+    ]
+  },
+  "mdb108_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb109_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb110_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      834,
+      427,
+      51
+    ]
+  },
+  "mdb111_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ASYM",
+    "coords": [
+      "M",
+      519,
+      575,
+      107
+    ]
+  },
+  "mdb112_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb113_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb114_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb115_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      563,
+      532,
+      117
+    ]
+  },
+  "mdb116_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb117_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      544,
+      576,
+      84
+    ]
+  },
+  "mdb118_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb119_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb120_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      601,
+      262,
+      79
+    ]
+  },
+  "mdb121_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      532,
+      434,
+      87
+    ]
+  },
+  "mdb122_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb123_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb124_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      658,
+      620,
+      33
+    ]
+  },
+  "mdb125_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      324,
+      552,
+      60
+    ]
+  },
+  "mdb126_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      833,
+      549,
+      23
+    ]
+  },
+  "mdb127_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      501,
+      551,
+      48
+    ]
+  },
+  "mdb128_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb129_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb130_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      804,
+      552,
+      28
+    ]
+  },
+  "mdb131_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb132_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      689,
+      766,
+      18
+    ]
+  },
+  "mdb133_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb134_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "M",
+      555,
+      728,
+      49
+    ]
+  },
+  "mdb135_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb136_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb137_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb138_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb139_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb140_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb141_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "M",
+      554,
+      759,
+      29
+    ]
+  },
+  "mdb142_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      677,
+      636,
+      26
+    ]
+  },
+  "mdb143_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb144_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "M",
+      711,
+      540,
+      27
+    ]
+  },
+  "mdb145_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      355,
+      543,
+      49
+    ]
+  },
+  "mdb146_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb147_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb148_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      698,
+      607,
+      174
+    ]
+  },
+  "mdb149_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb150_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      673,
+      661,
+      62
+    ]
+  },
+  "mdb151_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb152_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      349,
+      486,
+      48
+    ]
+  },
+  "mdb153_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb154_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb155_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      576,
+      480,
+      95
+    ]
+  },
+  "mdb156_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb157_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb158_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      484,
+      565,
+      88
+    ]
+  },
+  "mdb159_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb160_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      488,
+      519,
+      61
+    ]
+  },
+  "mdb161_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb162_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb163_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      633,
+      365,
+      50
+    ]
+  },
+  "mdb164_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb165_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      487,
+      490,
+      42
+    ]
+  },
+  "mdb166_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb167_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "ARCH",
+    "coords": [
+      "B",
+      450,
+      657,
+      35
+    ]
+  },
+  "mdb168_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb169_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb170_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      535,
+      480,
+      82
+    ]
+  },
+  "mdb171_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "ARCH",
+    "coords": [
+      "M",
+      562,
+      627,
+      62
+    ]
+  },
+  "mdb172_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb173_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb174_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb175_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      432,
+      670,
+      33
+    ]
+  },
+  "mdb176_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb177_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb178_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      532,
+      600,
+      70
+    ]
+  },
+  "mdb179_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      424,
+      514,
+      67
+    ]
+  },
+  "mdb180_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb181_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      505,
+      362,
+      54
+    ]
+  },
+  "mdb182_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb183_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb184_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      672,
+      624,
+      114
+    ]
+  },
+  "mdb185_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb186_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      621,
+      524,
+      47
+    ]
+  },
+  "mdb187_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb188_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      618,
+      617,
+      61
+    ]
+  },
+  "mdb189_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb190_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      512,
+      621,
+      31
+    ]
+  },
+  "mdb191_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      430,
+      516,
+      41
+    ]
+  },
+  "mdb192_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb193_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      625,
+      563,
+      132
+    ]
+  },
+  "mdb194_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb195_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      299,
+      129,
+      26
+    ]
+  },
+  "mdb196_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb197_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb198_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      456,
+      612,
+      93
+    ]
+  },
+  "mdb199_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      383,
+      177,
+      31
+    ]
+  },
+  "mdb200_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb201_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb202_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      467,
+      772,
+      37
+    ]
+  },
+  "mdb203_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb204_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      688,
+      399,
+      21
+    ]
+  },
+  "mdb205_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb206_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "SPIC",
+    "coords": [
+      "M",
+      656,
+      200,
+      17
+    ]
+  },
+  "mdb207_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "SPIC",
+    "coords": [
+      "B",
+      453,
+      564,
+      19
+    ]
+  },
+  "mdb208_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb209_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "M",
+      377,
+      503,
+      87
+    ]
+  },
+  "mdb210_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb211_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "M",
+      344,
+      327,
+      13
+    ]
+  },
+  "mdb212_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb213_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "M",
+      477,
+      520,
+      45
+    ]
+  },
+  "mdb214_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb215_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb217_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb218_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "B",
+      505,
+      629,
+      8
+    ]
+  },
+  "mdb219_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "B",
+      478,
+      756,
+      29
+    ]
+  },
+  "mdb220_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb221_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb222_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "B",
+      626,
+      427,
+      17
+    ]
+  },
+  "mdb223_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "B",
+      433,
+      529,
+      6
+    ]
+  },
+  "mdb224_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb225_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb226_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "B",
+      493,
+      721,
+      8
+    ]
+  },
+  "mdb227_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CALC",
+    "coords": [
+      "B",
+      520,
+      467,
+      9
+    ]
+  },
+  "mdb228_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb229_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb230_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb231_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CALC",
+    "coords": [
+      "M",
+      421,
+      538,
+      44
+    ]
+  },
+  "mdb232_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb234_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb235_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb236_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "B",
+      748,
+      824,
+      14
+    ]
+  },
+  "mdb237_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb238_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CALC",
+    "coords": [
+      "M",
+      502,
+      553,
+      17
+    ]
+  },
+  "mdb239_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "M",
+      457,
+      808,
+      25
+    ]
+  },
+  "mdb240_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "B",
+      381,
+      614,
+      23
+    ]
+  },
+  "mdb241_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "M",
+      571,
+      678,
+      38
+    ]
+  },
+  "mdb242_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb243_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb244_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      558,
+      567,
+      52
+    ]
+  },
+  "mdb246_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb247_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb248_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CALC",
+    "coords": [
+      "B",
+      646,
+      601,
+      10
+    ]
+  },
+  "mdb249_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "M",
+      449,
+      639,
+      64
+    ]
+  },
+  "mdb250_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb251_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb252_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CALC",
+    "coords": [
+      "B",
+      585,
+      367,
+      23
+    ]
+  },
+  "mdb253_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CALC",
+    "coords": [
+      "M",
+      291,
+      564,
+      28
+    ]
+  },
+  "mdb254_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb255_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb256_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "CALC",
+    "coords": [
+      "M",
+      624,
+      484,
+      37
+    ]
+  },
+  "mdb257_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb258_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb259_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb260_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb261_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb262_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb263_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb264_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "MISC",
+    "coords": [
+      "M",
+      428,
+      431,
+      36
+    ]
+  },
+  "mdb265_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "MISC",
+    "coords": [
+      "M",
+      431,
+      498,
+      60
+    ]
+  },
+  "mdb266_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb267_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "M",
+      231,
+      481,
+      56
+    ]
+  },
+  "mdb268_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb269_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb270_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "CIRC",
+    "coords": [
+      "M",
+      668,
+      945,
+      72
+    ]
+  },
+  "mdb271_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "M",
+      240,
+      270,
+      68
+    ]
+  },
+  "mdb272_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb273_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb274_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "M",
+      897,
+      505,
+      123
+    ]
+  },
+  "mdb275_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb276_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb277_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb278_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb279_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb280_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb281_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb282_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb283_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb284_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb285_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb286_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb287_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb288_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb289_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb290_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      687,
+      353,
+      45
+    ]
+  },
+  "mdb291_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb292_flipped.pgm": {
+    "type_background_tissue": "G",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb293_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb294_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb295_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb296_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb297_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb298_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb299_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb300_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb301_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb302_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb303_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb304_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb305_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb306_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb307_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb308_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb309_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb310_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb311_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb312_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "B",
+      784,
+      263,
+      20
+    ]
+  },
+  "mdb313_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb314_flipped.pgm": {
+    "type_background_tissue": "F",
+    "type": "MISC",
+    "coords": [
+      "B",
+      506,
+      191,
+      39
+    ]
+  },
+  "mdb315_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "CIRC",
+    "coords": [
+      "B",
+      508,
+      447,
+      93
+    ]
+  },
+  "mdb316_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb317_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb318_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb319_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb320_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb321_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  },
+  "mdb322_flipped.pgm": {
+    "type_background_tissue": "D",
+    "type": "NORM",
+    "coords": null
+  }
+}
